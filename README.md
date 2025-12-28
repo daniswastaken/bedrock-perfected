@@ -17,3 +17,14 @@ Check out all the features here:
 👉 **[https://wiki.snapshot.my.id](https://wiki.snapshot.my.id)**
 
 ---
+
+## Credits & Attribution
+
+This add-on wouldn’t be possible without the amazing work from these projects:
+
+* **Vanilla Tweaks** — https://vanillatweaks.net/
+* **Bedrock Tweaks** — https://bedrocktweaks.net/
+
+Huge thanks to them for providing resources and inspiration.
+
+---
