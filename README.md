@@ -1,3 +1,4 @@
+# New Update 26.1 Out Now!
 ![BANNER](https://raw.githubusercontent.com/daniswastaken/bedrock-perfected-wiki-vite/main/docs/public/version-banner/26-1.png)
 
 ## Introduction
