@@ -1,6 +1,8 @@
 # New Update 26.1 Out Now!
 ![BANNER](https://raw.githubusercontent.com/daniswastaken/bedrock-perfected-wiki-vite/main/docs/public/version-banner/26-1.png)
 
+---
+
 ## Introduction
 
 **Bedrock Perfected** is a Minecraft Bedrock add-on that aims to make the game better in many ways — from tweaked crafting recipes and improved textures to extra mechanics like damage indicators.
