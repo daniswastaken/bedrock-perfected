@@ -1,8 +1,6 @@
 # New Monthly Updates for March, v26.3 Out Now!
 
-<p align="center">
-  <iframe width="560" height="315" src="https://youtu.be/oKG0hwtYH0c?si=3KVCLCNdP3yYAfm-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+reserved area for the trailer video from yt
 
 ***
 
