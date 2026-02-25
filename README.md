@@ -1,18 +1,14 @@
-# New February Monthly Updates, v26.2 Out Now!
+# New Monthly Updates for March, v26.3 Out Now!
 
-![BANNER](https://raw.githubusercontent.com/daniswastaken/wiki/main/docs/src/updates/26-2-1.webp)
-
-***
-
-# What's New In 26.2?
-
-There is so many feature that got added in this update! Check out all the new features here: 👉 **[https://wiki.snapshot.my.id/updates/](https://wiki.snapshot.my.id/updates/26-2-0)**
+<p align="center">
+  <iframe width="560" height="315" src="https://youtu.be/oKG0hwtYH0c?si=3KVCLCNdP3yYAfm-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ***
 
-# Hotfix 26.2.1
+# What's New In 26.3?
 
-Bedrock Perfected now **compatible with Vibrant Visuals**! ![In-game Vibrant Visuals shot](https://raw.githubusercontent.com/daniswastaken/wiki/main/docs/src/updates/media/vibrant-visuals.webp)
+There is so many feature that got added in this update! Check out all the new features here: 👉 **[https://wiki.snapshot.my.id/updates/](https://wiki.snapshot.my.id/updates/26-3-0)**
 
 ***
 
@@ -20,13 +16,11 @@ Bedrock Perfected now **compatible with Vibrant Visuals**! ![In-game Vibrant Vis
 
 **Bedrock Perfected** is a Minecraft Bedrock add-on that aims to make the game better in many ways — from tweaked crafting recipes and improved textures to extra mechanics like damage indicators.
 
-This add-on packs **a lot** of features. So many, in fact, that listing everything here would just turn into a wall of text. The best way to understand it is honestly to try it yourself.
-
 ***
 
 ## Features & Wiki
 
-There are so many features in this add-on that the usual marketplace-style description becomes almost impossible to do properly. Instead, all features are fully documented on the **wiki**, where everything is organized, explained, and kept up to date.
+There are so many features in this add-on that putting it here almost impossible to do. Instead, all features are fully documented on the **wiki**, where everything is organized, explained, and kept up to date.
 
 Check out all the features here: 👉 **[https://wiki.snapshot.my.id](https://wiki.snapshot.my.id/)**
 
