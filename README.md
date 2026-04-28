@@ -1,18 +1,8 @@
-# New Monthly Updates for March, v26.3 Out Now!
-
-reserved area for the trailer video from yt
-
-***
-
-# What's New In 26.3?
-
-There is so many feature that got added in this update! Check out all the new features here: 👉 **[https://wiki.snapshot.my.id/updates/](https://wiki.snapshot.my.id/updates/26-3-0)**
-
-***
-
 ## Introduction
 
 **Bedrock Perfected** is a Minecraft Bedrock add-on that aims to make the game better in many ways — from tweaked crafting recipes and improved textures to extra mechanics like damage indicators.
+
+This repository containing all the version of Bedrock Perfected that has been released publicly.
 
 ***
 
